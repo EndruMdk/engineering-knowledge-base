@@ -34,7 +34,7 @@ The intended rhythm is one topic per week: define the questions, study trustwort
 | Number | Topic | Category | Status |
 | ---: | --- | --- | --- |
 | 001 | [Transformer Architecture](./01-ai-and-llms/001-transformer-architecture/) | AI and Large Language Models | Not Started |
-| 002 | [FlashAttention](./01-ai-and-llms/002-flashattention/) | AI and Large Language Models | Not Started |
+| 002 | [FlashAttention](./01-ai-and-llms/002-flashattention/) | AI and Large Language Models | Experimented |
 | 003 | [Mixture of Experts (MoE)](./01-ai-and-llms/003-mixture-of-experts-moe/) | AI and Large Language Models | Not Started |
 | 004 | [Rotary Positional Embeddings (RoPE)](./01-ai-and-llms/004-rotary-positional-embeddings-rope/) | AI and Large Language Models | Not Started |
 | 005 | [KV Cache](./01-ai-and-llms/005-kv-cache/) | AI and Large Language Models | Not Started |
@@ -178,10 +178,9 @@ The intended rhythm is one topic per week: define the questions, study trustwort
 
 - Total Topics: 140
 - Explored: 0
-- Experimented: 0
+- Experimented: 1
 - Deep Dives: 0
 - Standalone Projects: 0
-- LinkedIn Posts: 0
 
 ## Repository Structure
 
